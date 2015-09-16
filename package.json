@@ -1,0 +1,18 @@
+{
+    "name": "minecraft-world",
+    "version": "0.0.0",
+    "description": "library for editing minecraft worlds",
+    "keywords": [
+        "minecraft",
+        "world",
+        "minecraft-world"
+    ],
+    "homepage": "https://github.com/M4GNV5/node-minecraft-world",
+    "author": "Jakob Löw <eragonjml@googlemail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/M4GNV5/node-minecraft-world.git"
+    },
+    "dependencies": {
+    }
+}
